@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"app/page.tsx -> ../lib/excelExport":{"id":5354,"files":["static/chunks/2170a4aa.cc477273ed3abd90.js","static/chunks/668.6257dc4efd7d43b8.js"]}}';
